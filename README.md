@@ -18,5 +18,5 @@ Se evaluaron y compararon tres arquitecturas diferentes de Redes Neuronales Arti
 ## 📁 Estructura del Repositorio
 ```text
 ├── data/                  # Datos procesados en formato CSV (entrenamiento y prueba)
-├── src/ or notebooks/     # Código fuente (Notebooks de Google Colab / Scripts de Python)
+├── ProyectoN2_Grupo21_IA.ipynb     # Código fuente (Notebook de Google Colab con Scripts de Python)
 └── README.md              # Documentación del proyecto
